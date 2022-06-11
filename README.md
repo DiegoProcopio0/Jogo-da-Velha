@@ -9,6 +9,8 @@
 ## 💻 Sobre o Projeto
 
 <br>
+<a href="https://diegoprocopio0.github.io/Jogo-da-Velha/"> Link do Projeto </a>
+<br>
 
  <p>Esse projeto foi baseado em um jogo antigo chamado - Jogo da Velha -</p>
     <img alt="Image do projeto" title="Jogo da Velha" src="./images-readme/image-1.png" width="400px" />
